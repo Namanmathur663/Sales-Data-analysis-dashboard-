@@ -1,5 +1,4 @@
-# ===== RUPEES DASHBOARD - WITH RATING PAGE =====
-# Copy ALL → Run ALL → Perfect!
+
 
 suppressPackageStartupMessages({
   library(shiny); library(shinydashboard); library(ggplot2); library(dplyr)
